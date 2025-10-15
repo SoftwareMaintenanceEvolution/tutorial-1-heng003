@@ -3,6 +3,10 @@
 Hi! I'm Heng Xiao Xuan, a student in the Software Maintenance and Evolution course.
 I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
 
+<p align="center">
+  <img src="profile.png" alt="Heng Xiao Xuan Profile Picture" width="250" height="250" />
+</p>
+
 Course expectations: To gain hands-on experience in maintaining and evolving software.
 
 ## GitHub Profile
